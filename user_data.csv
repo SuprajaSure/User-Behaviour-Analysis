@@ -1,0 +1,6 @@
+user_id,session_duration,pages_visited,click_rate,time_of_day,location,device_type
+1,25,8,0.45,10,India,Mobile
+2,30,10,0.50,14,US,Desktop
+3,200,3,2.5,3,UK,Desktop
+4,28,9,0.48,18,Germany,Mobile
+5,32,12,0.52,22,India,Tablet
